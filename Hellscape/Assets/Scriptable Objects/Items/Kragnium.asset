@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec8a95950576c84990f879255ef584c, type: 3}
+  m_Name: Kragnium
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2142844425405769601, guid: a72a2d9d67be85c408d91ba7b20e0080, type: 3}
+  spriteIcon: {fileID: -863824653657887435, guid: 78fe0c31791da5a4ca990e42cc0b3bd7, type: 3}
+  type: 1
+  description: brass armour
+  health: 50

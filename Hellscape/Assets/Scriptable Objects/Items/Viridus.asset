@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec8a95950576c84990f879255ef584c, type: 3}
+  m_Name: Viridus
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7835525265835843062, guid: c9f0ef36b826e2a49a4ede932744451d, type: 3}
+  spriteIcon: {fileID: 6893130034338343960, guid: 39d37f7e2121c464f96bd07ffefa7842, type: 3}
+  type: 1
+  description: leather armour
+  health: 35

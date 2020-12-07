@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec8a95950576c84990f879255ef584c, type: 3}
+  m_Name: Albedium
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 388402817298018135, guid: 6074d6c6c5cad3547ab73f3380fac375, type: 3}
+  spriteIcon: {fileID: -7417998689996312654, guid: 0681cdc092394c24e9488c8d972bc5a1, type: 3}
+  type: 1
+  description: iron armour
+  health: 40

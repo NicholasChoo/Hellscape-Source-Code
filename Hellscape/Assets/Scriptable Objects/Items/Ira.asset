@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fec8a95950576c84990f879255ef584c, type: 3}
+  m_Name: Ira
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3928739518039799784, guid: 88c0726869bc04245ba6ca1b640416f7, type: 3}
+  spriteIcon: {fileID: -5428490354155814881, guid: 067799bdd413d0a43ac8bfe7231c9c2c, type: 3}
+  type: 1
+  description: steel armour
+  health: 45
